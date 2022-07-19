@@ -487,7 +487,6 @@ body {
 .box-footer {
   display: flex;
   align-items: baseline;
-  margin: 0;
 }
 
 .footer-contact {
